@@ -1,0 +1,16 @@
+.weather-icon {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  font-size: 128px;
+  text-align: center;
+}
+
+.icon-1 {
+  top: calc(50% - 100px);
+  left: 50%;
+}
+
+.icon-2 {
+  top: 130%;
+  right: -30%;
+}
